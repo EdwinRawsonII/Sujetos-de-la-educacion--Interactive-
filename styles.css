@@ -68,7 +68,8 @@ main {
     background: #fff;
     border-radius: 8px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-}
+}   
+
 
 .indexmain {
     background-image: url(/Images/Sujetos.png);
@@ -184,7 +185,9 @@ header {
     color: white;
     padding: 20px 0;
 }
-
+span{ 
+    color: darkblue;
+}
 h1 {
     text-align: center;
     margin: 0;
@@ -264,6 +267,13 @@ section {
     border-radius: 5px;
     cursor: grab;
     font-weight: bold;
+}
+
+.puzzle-piece-container{
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
 }
 
 .puzzle-piece:active {
