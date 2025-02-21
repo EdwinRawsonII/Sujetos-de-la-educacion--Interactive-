@@ -69,7 +69,16 @@ main {
     border-radius: 8px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }   
-
+.bloquesimage1{
+    max-width: 50%;
+    height: auto;
+     
+}
+.bloquesimage2{
+    max-width: 100%;
+    height: auto;
+    
+}
 
 .indexmain {
     background-image: url(/Images/Sujetos.png);
