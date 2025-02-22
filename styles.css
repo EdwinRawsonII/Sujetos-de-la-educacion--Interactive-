@@ -134,6 +134,17 @@ main {
             .divmage7{
                 display: flex;
                 justify-content: center;}
+   
+                .bloquesimage8{
+                    max-width: 50%;
+                    height: auto;
+                    display: flex;
+                    justify-content: center;
+                }
+                .divmage8{
+                    display: flex;
+                    justify-content: center;}
+    
 
 .indexmain {
     background-image: url(/Images/Sujetos.png);
