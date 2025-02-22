@@ -74,11 +74,66 @@ main {
     height: auto;
      
 }
+.divmage1{
+    display: flex;
+    justify-content: center;}
+
 .bloquesimage2{
     max-width: 100%;
     height: auto;
     
 }
+.divmage2{
+    display: flex;
+    justify-content: center;}
+
+.bloquesimage3{
+    max-width: 30%;
+    height: auto;
+     
+}
+.divmage3{
+    display: flex;
+    justify-content: center;}
+
+.bloquesimage4{
+    max-width: 100%;
+    height: auto;
+     
+}
+.divmage4{
+    display: flex;
+    justify-content: center;}
+
+.bloquesimage5{
+    max-width: 15%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+}
+.divmage5{
+    display: flex;
+    justify-content: center;}
+
+    .bloquesimage6{
+        max-width: 20%;
+        height: auto;
+        display: flex;
+        justify-content: center;
+    }
+    .divmage6{
+        display: flex;
+        justify-content: center;}
+        
+      .bloquesimage7{
+                max-width: 40%;
+                height: auto;
+                display: flex;
+                justify-content: center;
+            }
+            .divmage7{
+                display: flex;
+                justify-content: center;}
 
 .indexmain {
     background-image: url(/Images/Sujetos.png);
